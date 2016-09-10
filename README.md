@@ -1,5 +1,5 @@
 # RGNA_ITRF08_Tools
-This is a set of tools written on Octave(Matlab compatible) to work with GPS reference stations for MEXICO within the North American tectonic plate only. Other plates or regions are not considered.
+INEGI ITRF08 2010 tools, written on Octave(Matlab compatible) to work with GPS reference stations for MEXICO within the North American tectonic plate only. Other plates or regions are not considered.
 
 Two steps are involved when working with reference stations from INEGI RGNA.
 
