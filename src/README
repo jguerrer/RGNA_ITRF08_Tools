@@ -1,0 +1,8 @@
+The matlab or octave code is split on two parts.
+
+
+1) The first, which translates the INEGI ITRF08 Epoch 2010 geodesic coordinates into the given USER epoch.
+ This is performed using the file 
+ TraslacionEstacionesINEGI_RGNA_ITRF_2008_Epoca_2010_a_epoca_USUARIO.m
+ 
+ Open in Octave GUI and modfy the followin
