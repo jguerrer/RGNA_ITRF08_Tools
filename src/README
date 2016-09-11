@@ -5,4 +5,21 @@ The matlab or octave code is split on two parts.
  This is performed using the file 
  TraslacionEstacionesINEGI_RGNA_ITRF_2008_Epoca_2010_a_epoca_USUARIO.m
  
- Open in Octave GUI and modfy the followin
+ Open in Octave GUI and modfy the following lines
+ 
+ano=2016
+dia_del_ano_aprox=135
+
+ano>   stands for year, so if today is year 2019, set 2019
+dia_del_ano_aprox>   current day of the year starting in january of the current year. This is approximate.
+
+The coordinates of the known stations are set into the code, but I found an update was made on the equipment, and the positions may have changed as Sept 5, 2016.
+An update is required as some stations dissapeared.
+
+This version works with previous stations list.
+
+
+
+
+
+
